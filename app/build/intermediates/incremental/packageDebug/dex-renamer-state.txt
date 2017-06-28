@@ -1,0 +1,4 @@
+#Wed Jun 28 11:10:31 CST 2017
+base.0=/home/xysun/code_app/cae_version_three/PingYeAudio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/xysun/code_app/cae_version_three/PingYeAudio/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

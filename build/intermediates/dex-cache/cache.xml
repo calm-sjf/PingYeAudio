@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/xysun/code_app/cae_version_three/PingYeAudio/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e3f2833a2105e4969d12274b94702d7c4047df3">
+        <dex dex="/home/xysun/code_app/cae_version_three/PingYeAudio/app/build/intermediates/pre-dexed/debug/Msc_1b745dac043022e0f31ca4d8fdc5025e70dc8510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xysun/code_app/cae_version_three/PingYeAudio/app/libs/Cae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef0ee949e1d31ef5a195e68f1da3f0036a489190">
+        <dex dex="/home/xysun/code_app/cae_version_three/PingYeAudio/app/build/intermediates/pre-dexed/debug/Cae_ab3654a8e59d4d867ed4a1e7e9d82e7845222ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xysun/code_app/cae_version_two/cae_version_source/PingYeAudio/app/libs/AlsaRecorder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b5b9de231f71121a214746185d60b9f90cab565">
+        <dex dex="/home/xysun/code_app/cae_version_two/cae_version_source/PingYeAudio/app/build/intermediates/pre-dexed/debug/AlsaRecorder_ae88e83679ce607d9a0251f385b1a2d2ea6142f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xysun/code_app/cae_version_two/cae_version_source/PingYeAudio/app/libs/Cae.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef0ee949e1d31ef5a195e68f1da3f0036a489190">
+        <dex dex="/home/xysun/code_app/cae_version_two/cae_version_source/PingYeAudio/app/build/intermediates/pre-dexed/debug/Cae_368da92e6b4ac479670ac2f4f7f1a470d2cc3f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xysun/code_app/cae_version_three/PingYeAudio/app/libs/AlsaRecorder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b5b9de231f71121a214746185d60b9f90cab565">
+        <dex dex="/home/xysun/code_app/cae_version_three/PingYeAudio/app/build/intermediates/pre-dexed/debug/AlsaRecorder_8b9a218211c05ef34669831e4c472b1d2739c7de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/xysun/code_app/cae_version_two/cae_version_source/PingYeAudio/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e3f2833a2105e4969d12274b94702d7c4047df3">
+        <dex dex="/home/xysun/code_app/cae_version_two/cae_version_source/PingYeAudio/app/build/intermediates/pre-dexed/debug/Msc_524f09909b75cebc4155f932907e1ccb956e7e90.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/xysun/code_app/cae_version_three/PingYeAudio/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/xysun/code_app/cae_version_three/PingYeAudio/app/src/debug/shaders"/></dataSet></merger>
